@@ -23,3 +23,5 @@ delete project res values strings.xml unused string item
 
 
 - 网上也有其他工具可以完成删除无用资源的目的，具体的可以再去了解，之所以自己去写，而没有用第三方的工具是因为，第三方的工具不好控制删除的资源类别，以及link生成result.xml需要配置
+
+- [Markdown语法介绍](http://wowubuntu.com/markdown/)
